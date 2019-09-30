@@ -1,0 +1,31 @@
+{
+  "name": "cropping-in-react",
+  "version": "1.0.0",
+  "description": "playing with a component to create a cropped image",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.10.1",
+    "react-dom": "16.10.1",
+    "react-image-crop": "8.3.1",
+    "react-scripts": "3.1.2"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.3.0",
+    "eslint-plugin-import": "^2.18.2",
+    "typescript": "3.6.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
